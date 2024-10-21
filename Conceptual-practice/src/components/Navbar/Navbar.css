@@ -1,0 +1,25 @@
+*{
+    list-style: none;
+}
+li{
+    font-size: larger;
+    font-weight: 400;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+}
+.navbar-container{
+ display: flex;
+ flex-direction: row;
+ justify-items: center;
+ justify-content: space-between;
+
+}
+.img-size{
+width: 1280px;
+height: 720px;
+border-radius: 15px;
+}
